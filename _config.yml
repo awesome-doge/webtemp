@@ -2,7 +2,7 @@ title: Welcome to the Taipei Hackerspace
 description: > # this means to ignore newlines until "baseurl:"
   The Taipei Hackerspace is an open and public workshop to do any kind of DIY projects, from electronics to 3D printing, from urban farming to clothes hacking.
 permalink: ':title/'
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/webtemp" # the subpath of your site, e.g. /blog
 url: "https://taipeihack.org/" # the base hostname & protocol for your site, e.g. http://example.com
 site-twitter: "https://twitter.com/taipeihack/" #if your site has a twitter account, enter it here
 
